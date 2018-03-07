@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\bin\Debug\_06.Point_on_Rectangle_Border.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\obj\Debug\06. Point on Rectangle Border.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\06. Point on Rectangle Border\obj\Debug\_06.Point_on_Rectangle_Border.pdb

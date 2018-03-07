@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\bin\Debug\14Test.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\bin\Debug\14Test.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\bin\Debug\14Test.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\obj\Debug\14Test.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\obj\Debug\14Test.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\obj\Debug\14Test.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\14Test\obj\Debug\14Test.pdb

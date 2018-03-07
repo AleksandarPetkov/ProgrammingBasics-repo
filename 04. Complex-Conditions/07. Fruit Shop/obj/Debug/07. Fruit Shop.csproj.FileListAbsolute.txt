@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\bin\Debug\_07.Fruit_Shop.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\obj\Debug\07. Fruit Shop.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\obj\Debug\07. Fruit Shop.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\07. Fruit Shop\obj\Debug\_07.Fruit_Shop.pdb

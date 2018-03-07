@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\bin\Debug\_04.Fruit_or_Vegetable.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\obj\Debug\04. Fruit or Vegetable.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\04. Fruit or Vegetable\obj\Debug\_04.Fruit_or_Vegetable.pdb

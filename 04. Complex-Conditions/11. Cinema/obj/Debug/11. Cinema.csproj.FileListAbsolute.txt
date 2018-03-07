@@ -1,0 +1,6 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\11. Cinema\bin\Debug\_11.Cinema.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\11. Cinema\bin\Debug\_11.Cinema.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\11. Cinema\bin\Debug\_11.Cinema.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\11. Cinema\obj\Debug\11. Cinema.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\11. Cinema\obj\Debug\_11.Cinema.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\11. Cinema\obj\Debug\_11.Cinema.pdb

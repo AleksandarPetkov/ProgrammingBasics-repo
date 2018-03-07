@@ -1,0 +1,6 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\10. Animal Type\bin\Debug\_10.Animal_Type.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\10. Animal Type\bin\Debug\_10.Animal_Type.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\10. Animal Type\bin\Debug\_10.Animal_Type.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\10. Animal Type\obj\Debug\10. Animal Type.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\10. Animal Type\obj\Debug\_10.Animal_Type.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\10. Animal Type\obj\Debug\_10.Animal_Type.pdb

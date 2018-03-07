@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe.config
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\bin\Debug\_03.Point_in_Rectangle.pdb
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\obj\Debug\03. Point in Rectangle.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.exe
+D:\01.ProgrammingBasics\04.Complex-Conditions\04.Complex-Conditions\03. Point in Rectangle\obj\Debug\_03.Point_in_Rectangle.pdb
