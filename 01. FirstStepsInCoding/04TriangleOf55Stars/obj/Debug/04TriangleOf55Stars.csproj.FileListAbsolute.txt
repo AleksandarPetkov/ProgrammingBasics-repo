@@ -1,0 +1,7 @@
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\bin\Debug\04TriangleOf55Stars.exe.config
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\bin\Debug\04TriangleOf55Stars.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\bin\Debug\04TriangleOf55Stars.pdb
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\obj\Debug\04TriangleOf55Stars.csproj.CoreCompileInputs.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\obj\Debug\04TriangleOf55Stars.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\obj\Debug\04TriangleOf55Stars.pdb
+D:\Exercises\FirstSteps\FirstStepsInCoding\04TriangleOf55Stars\obj\Debug\04TriangleOf55Stars.csprojResolveAssemblyReference.cache

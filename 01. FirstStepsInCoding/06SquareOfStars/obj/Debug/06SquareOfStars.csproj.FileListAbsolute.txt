@@ -1,0 +1,14 @@
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\bin\Debug\06SquareOfStars.exe.config
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\bin\Debug\06SquareOfStars.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\bin\Debug\06SquareOfStars.pdb
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.csprojResolveAssemblyReference.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.csproj.CoreCompileInputs.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.pdb
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\bin\Debug\06SquareOfStars.exe.config
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\bin\Debug\06SquareOfStars.exe
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\bin\Debug\06SquareOfStars.pdb
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.csprojResolveAssemblyReference.cache
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.exe
+D:\01ProgrammingBasics\01FirstStepsInCoding\FirstStepsInCoding\06SquareOfStars\obj\Debug\06SquareOfStars.pdb

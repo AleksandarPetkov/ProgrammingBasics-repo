@@ -1,0 +1,7 @@
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\bin\Debug\Expression.exe.config
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\bin\Debug\Expression.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\bin\Debug\Expression.pdb
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\obj\Debug\02Expression.csprojResolveAssemblyReference.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\obj\Debug\02Expression.csproj.CoreCompileInputs.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\obj\Debug\Expression.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\Expression\obj\Debug\Expression.pdb

@@ -1,0 +1,6 @@
+D:\Exercises\FirstSteps\FirstStepsInCoding\04Triangle55Star\bin\Debug\04Triangle55Star.exe.config
+D:\Exercises\FirstSteps\FirstStepsInCoding\04Triangle55Star\bin\Debug\04Triangle55Star.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\04Triangle55Star\bin\Debug\04Triangle55Star.pdb
+D:\Exercises\FirstSteps\FirstStepsInCoding\04Triangle55Star\obj\Debug\04Triangle55Star.csproj.CoreCompileInputs.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\04Triangle55Star\obj\Debug\04Triangle55Star.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\04Triangle55Star\obj\Debug\04Triangle55Star.pdb

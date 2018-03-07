@@ -1,0 +1,7 @@
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\bin\Debug\Numbers.exe.config
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\bin\Debug\Numbers.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\bin\Debug\Numbers.pdb
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\obj\Debug\03Numbers.csprojResolveAssemblyReference.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\obj\Debug\03Numbers.csproj.CoreCompileInputs.cache
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\obj\Debug\Numbers.exe
+D:\Exercises\FirstSteps\FirstStepsInCoding\Numbers\obj\Debug\Numbers.pdb
