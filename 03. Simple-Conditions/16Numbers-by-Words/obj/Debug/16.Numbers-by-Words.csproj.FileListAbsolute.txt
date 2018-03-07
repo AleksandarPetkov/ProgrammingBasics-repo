@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\bin\Debug\16Numbers-by-Words.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\bin\Debug\16Numbers-by-Words.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\bin\Debug\16Numbers-by-Words.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\obj\Debug\16.Numbers-by-Words.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\obj\Debug\16.Numbers-by-Words.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\obj\Debug\16Numbers-by-Words.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\16Numbers-by-Words\obj\Debug\16Numbers-by-Words.pdb

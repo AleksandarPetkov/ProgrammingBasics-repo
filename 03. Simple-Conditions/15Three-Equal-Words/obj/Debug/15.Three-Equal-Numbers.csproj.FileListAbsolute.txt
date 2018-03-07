@@ -1,0 +1,6 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\15Three-Equal-Words\bin\Debug\15Three-Equal-Words.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\15Three-Equal-Words\bin\Debug\15Three-Equal-Words.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\15Three-Equal-Words\bin\Debug\15Three-Equal-Words.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\15Three-Equal-Words\obj\Debug\15.Three-Equal-Numbers.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\15Three-Equal-Words\obj\Debug\15Three-Equal-Words.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\15Three-Equal-Words\obj\Debug\15Three-Equal-Words.pdb

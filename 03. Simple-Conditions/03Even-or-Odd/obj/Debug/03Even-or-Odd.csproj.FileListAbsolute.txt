@@ -1,0 +1,6 @@
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\03Even-or-Odd\bin\Debug\03Even-or-Odd.exe.config
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\03Even-or-Odd\bin\Debug\03Even-or-Odd.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\03Even-or-Odd\bin\Debug\03Even-or-Odd.pdb
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\03Even-or-Odd\obj\Debug\03Even-or-Odd.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\03Even-or-Odd\obj\Debug\03Even-or-Odd.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\03Even-or-Odd\obj\Debug\03Even-or-Odd.pdb

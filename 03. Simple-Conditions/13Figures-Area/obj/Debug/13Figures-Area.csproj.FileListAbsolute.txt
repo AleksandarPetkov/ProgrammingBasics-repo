@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\bin\Debug\13Figures-Area.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\bin\Debug\13Figures-Area.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\bin\Debug\13Figures-Area.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\obj\Debug\13Figures-Area.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\obj\Debug\13Figures-Area.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\obj\Debug\13Figures-Area.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\13Figures-Area\obj\Debug\13Figures-Area.pdb

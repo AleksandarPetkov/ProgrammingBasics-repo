@@ -1,0 +1,7 @@
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\bin\Debug\09Guess-the-Pasword.exe.config
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\bin\Debug\09Guess-the-Pasword.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\bin\Debug\09Guess-the-Pasword.pdb
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\obj\Debug\09Guess-the-Pasword.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\obj\Debug\09Guess-the-Pasword.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\obj\Debug\09Guess-the-Pasword.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\09Guess-the-Pasword\obj\Debug\09Guess-the-Pasword.pdb

@@ -1,0 +1,6 @@
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\04Biggest-Number\bin\Debug\04Biggest-Number.exe.config
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\04Biggest-Number\bin\Debug\04Biggest-Number.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\04Biggest-Number\bin\Debug\04Biggest-Number.pdb
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\04Biggest-Number\obj\Debug\04Biggest-Number.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\04Biggest-Number\obj\Debug\04Biggest-Number.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\04Biggest-Number\obj\Debug\04Biggest-Number.pdb

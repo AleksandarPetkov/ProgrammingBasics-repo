@@ -1,0 +1,7 @@
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\bin\Debug\01ExcellentCheck.exe.config
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\bin\Debug\01ExcellentCheck.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\bin\Debug\01ExcellentCheck.pdb
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\obj\Debug\01Excellent-Check.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\obj\Debug\01Excellent-Check.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\obj\Debug\01ExcellentCheck.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\01ExcellentCheck\obj\Debug\01ExcellentCheck.pdb

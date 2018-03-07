@@ -1,0 +1,6 @@
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\02ExcellentOrNot\bin\Debug\02ExcellentOrNot.exe.config
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\02ExcellentOrNot\bin\Debug\02ExcellentOrNot.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\02ExcellentOrNot\bin\Debug\02ExcellentOrNot.pdb
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\02ExcellentOrNot\obj\Debug\02ExcellentOrNot.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\02ExcellentOrNot\obj\Debug\02ExcellentOrNot.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\02ExcellentOrNot\obj\Debug\02ExcellentOrNot.pdb

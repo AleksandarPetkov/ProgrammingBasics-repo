@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\bin\Debug\12Speed-Chekk.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\bin\Debug\12Speed-Chekk.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\bin\Debug\12Speed-Chekk.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\obj\Debug\12Speed-Chekk.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\obj\Debug\12Speed-Chekk.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\obj\Debug\12Speed-Chekk.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\12Speed-Chekk\obj\Debug\12Speed-Chekk.pdb

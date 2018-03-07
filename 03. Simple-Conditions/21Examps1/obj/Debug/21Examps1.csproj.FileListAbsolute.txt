@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\obj\Debug\21Examps1.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\obj\Debug\21Examps1.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\bin\Debug\21Examps1.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\bin\Debug\21Examps1.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\bin\Debug\21Examps1.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\obj\Debug\21Examps1.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\21Examps1\obj\Debug\21Examps1.pdb

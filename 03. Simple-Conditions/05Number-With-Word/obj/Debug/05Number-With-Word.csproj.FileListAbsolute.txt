@@ -1,0 +1,6 @@
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\05Number-With-Word\bin\Debug\05Number-With-Word.exe.config
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\05Number-With-Word\bin\Debug\05Number-With-Word.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\05Number-With-Word\bin\Debug\05Number-With-Word.pdb
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\05Number-With-Word\obj\Debug\05Number-With-Word.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\05Number-With-Word\obj\Debug\05Number-With-Word.exe
+D:\ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\05Number-With-Word\obj\Debug\05Number-With-Word.pdb

@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\bin\Debug\14Time+15Minuts.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\bin\Debug\14Time+15Minuts.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\bin\Debug\14Time+15Minuts.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\obj\Debug\14Time+15Minuts.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\obj\Debug\14Time+15Minuts.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\obj\Debug\14Time+15Minuts.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\14Time+15Minuts\obj\Debug\14Time+15Minuts.pdb

@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\bin\Debug\18Campany.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\bin\Debug\18Campany.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\bin\Debug\18Campany.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\obj\Debug\18Campany.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\obj\Debug\18Campany.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\obj\Debug\18Campany.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\18Campany\obj\Debug\18Campany.pdb

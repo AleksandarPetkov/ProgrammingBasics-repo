@@ -1,0 +1,7 @@
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\bin\Debug\17Firm.exe.config
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\bin\Debug\17Firm.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\bin\Debug\17Firm.pdb
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\obj\Debug\17Firm.csprojResolveAssemblyReference.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\obj\Debug\17Firm.csproj.CoreCompileInputs.cache
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\obj\Debug\17Firm.exe
+D:\01.ProgrammingBasics\03Simple-Conditions\03Simple-Conditions\17Firm\obj\Debug\17Firm.pdb
