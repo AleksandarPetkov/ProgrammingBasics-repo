@@ -1,0 +1,6 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\05Trapezoit-Area\bin\Debug\05Trapezoit-Area.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\05Trapezoit-Area\bin\Debug\05Trapezoit-Area.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\05Trapezoit-Area\bin\Debug\05Trapezoit-Area.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\05Trapezoit-Area\obj\Debug\05Trapezoit-Area.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\05Trapezoit-Area\obj\Debug\05Trapezoit-Area.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\05Trapezoit-Area\obj\Debug\05Trapezoit-Area.pdb

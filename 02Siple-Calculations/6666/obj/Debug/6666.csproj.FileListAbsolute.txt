@@ -1,0 +1,7 @@
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\bin\Debug\6666.exe.config
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\bin\Debug\6666.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\bin\Debug\6666.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\obj\Debug\6666.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\obj\Debug\6666.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\obj\Debug\6666.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\6666\obj\Debug\6666.pdb

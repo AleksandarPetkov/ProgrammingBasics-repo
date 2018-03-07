@@ -1,0 +1,7 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\bin\Debug\11USD-To-BGN.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\bin\Debug\11USD-To-BGN.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\bin\Debug\11USD-To-BGN.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\obj\Debug\11USD-To-BGN.csprojResolveAssemblyReference.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\obj\Debug\11USD-To-BGN.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\obj\Debug\11USD-To-BGN.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\11USD-To-BGN\obj\Debug\11USD-To-BGN.pdb

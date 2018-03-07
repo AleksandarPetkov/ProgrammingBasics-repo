@@ -1,0 +1,7 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\bin\Debug\06CircleAreaAndPerimetar.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\bin\Debug\06CircleAreaAndPerimetar.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\bin\Debug\06CircleAreaAndPerimetar.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\obj\Debug\06CircleAreaAndPerimetar.csprojResolveAssemblyReference.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\obj\Debug\06CircleAreaAndPerimetar.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\obj\Debug\06CircleAreaAndPerimetar.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\06CircleAreaAndPerimetar\obj\Debug\06CircleAreaAndPerimetar.pdb

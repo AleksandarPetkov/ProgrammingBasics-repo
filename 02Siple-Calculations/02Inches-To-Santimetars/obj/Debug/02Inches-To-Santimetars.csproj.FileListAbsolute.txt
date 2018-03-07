@@ -1,0 +1,12 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\02Inches-To-Santimetars\bin\Debug\02Inches-To-Santimetars.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\02Inches-To-Santimetars\bin\Debug\02Inches-To-Santimetars.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\02Inches-To-Santimetars\bin\Debug\02Inches-To-Santimetars.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\02Inches-To-Santimetars\obj\Debug\02Inches-To-Santimetars.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\02Inches-To-Santimetars\obj\Debug\02Inches-To-Santimetars.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\02Inches-To-Santimetars\obj\Debug\02Inches-To-Santimetars.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\02Inches-To-Santimetars\bin\Debug\02Inches-To-Santimetars.exe.config
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\02Inches-To-Santimetars\bin\Debug\02Inches-To-Santimetars.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\02Inches-To-Santimetars\bin\Debug\02Inches-To-Santimetars.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\02Inches-To-Santimetars\obj\Debug\02Inches-To-Santimetars.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\02Inches-To-Santimetars\obj\Debug\02Inches-To-Santimetars.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\02Inches-To-Santimetars\obj\Debug\02Inches-To-Santimetars.pdb

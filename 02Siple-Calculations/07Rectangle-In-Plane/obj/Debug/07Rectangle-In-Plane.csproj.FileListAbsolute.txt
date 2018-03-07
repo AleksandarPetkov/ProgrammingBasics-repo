@@ -1,0 +1,7 @@
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\bin\Debug\07Rectangle-In-Plane.exe.config
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\bin\Debug\07Rectangle-In-Plane.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\bin\Debug\07Rectangle-In-Plane.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\obj\Debug\07Rectangle-In-Plane.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\obj\Debug\07Rectangle-In-Plane.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\obj\Debug\07Rectangle-In-Plane.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\07Rectangle-In-Plane\obj\Debug\07Rectangle-In-Plane.pdb

@@ -1,0 +1,7 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\bin\Debug\08Triangle-Area.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\bin\Debug\08Triangle-Area.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\bin\Debug\08Triangle-Area.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\obj\Debug\08Triangle-Area.csprojResolveAssemblyReference.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\obj\Debug\08Triangle-Area.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\obj\Debug\08Triangle-Area.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\08Triangle-Area\obj\Debug\08Triangle-Area.pdb

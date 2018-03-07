@@ -1,0 +1,7 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\bin\Debug\09CelziToFahrenheit.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\bin\Debug\09CelziToFahrenheit.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\bin\Debug\09CelziToFahrenheit.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\obj\Debug\09CelziToFahrenheit.csprojResolveAssemblyReference.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\obj\Debug\09CelziToFahrenheit.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\obj\Debug\09CelziToFahrenheit.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\09CelziToFahrenheit\obj\Debug\09CelziToFahrenheit.pdb

@@ -1,0 +1,13 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\10Radians-To-Degrees\bin\Debug\10Radians-To-Degrees.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\10Radians-To-Degrees\bin\Debug\10Radians-To-Degrees.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\10Radians-To-Degrees\bin\Debug\10Radians-To-Degrees.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\bin\Debug\10Radians-To-Degrees.exe.config
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\bin\Debug\10Radians-To-Degrees.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\bin\Debug\10Radians-To-Degrees.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\10Radians-To-Degrees\obj\Debug\10Radians-To-Degrees.pdb

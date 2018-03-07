@@ -1,0 +1,7 @@
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\bin\Debug\12Multi-Conventor.exe.config
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\bin\Debug\12Multi-Conventor.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\bin\Debug\12Multi-Conventor.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\obj\Debug\12Multi-Conventor.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\obj\Debug\12Multi-Conventor.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\obj\Debug\12Multi-Conventor.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\12Multi-Conventor\obj\Debug\12Multi-Conventor.pdb

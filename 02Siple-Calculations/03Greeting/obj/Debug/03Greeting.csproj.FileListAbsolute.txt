@@ -1,0 +1,6 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\03Greeting\bin\Debug\03Greeting.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\03Greeting\bin\Debug\03Greeting.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\03Greeting\bin\Debug\03Greeting.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\03Greeting\obj\Debug\03Greeting.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\03Greeting\obj\Debug\03Greeting.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\03Greeting\obj\Debug\03Greeting.pdb

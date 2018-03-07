@@ -1,0 +1,6 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\04Concatenate-Data\bin\Debug\04Concatenate-Data.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\04Concatenate-Data\bin\Debug\04Concatenate-Data.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\04Concatenate-Data\bin\Debug\04Concatenate-Data.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\04Concatenate-Data\obj\Debug\04Concatenate-Data.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\04Concatenate-Data\obj\Debug\04Concatenate-Data.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\04Concatenate-Data\obj\Debug\04Concatenate-Data.pdb

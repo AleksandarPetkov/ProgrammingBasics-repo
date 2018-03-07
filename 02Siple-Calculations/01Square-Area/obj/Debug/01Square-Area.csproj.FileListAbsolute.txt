@@ -1,0 +1,14 @@
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.csprojResolveAssemblyReference.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.csproj.CoreCompileInputs.cache
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\bin\Debug\01Square-Area.exe.config
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\bin\Debug\01Square-Area.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\bin\Debug\01Square-Area.pdb
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.exe
+D:\01ProgrammingBasics\02\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\bin\Debug\01Square-Area.exe.config
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\bin\Debug\01Square-Area.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\bin\Debug\01Square-Area.pdb
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.csprojResolveAssemblyReference.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.csproj.CoreCompileInputs.cache
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.exe
+D:\ProgrammingBasics\02SipleCalculation\02Siple-Calculations\01Square-Area\obj\Debug\01Square-Area.pdb
