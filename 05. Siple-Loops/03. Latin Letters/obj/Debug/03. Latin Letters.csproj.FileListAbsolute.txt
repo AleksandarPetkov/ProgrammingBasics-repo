@@ -1,0 +1,6 @@
+c:\users\hp\source\repos\05.Siple-Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe.config
+c:\users\hp\source\repos\05.Siple-Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.exe
+c:\users\hp\source\repos\05.Siple-Loops\03. Latin Letters\bin\Debug\_03.Latin_Letters.pdb
+c:\users\hp\source\repos\05.Siple-Loops\03. Latin Letters\obj\Debug\03. Latin Letters.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\05.Siple-Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.exe
+c:\users\hp\source\repos\05.Siple-Loops\03. Latin Letters\obj\Debug\_03.Latin_Letters.pdb

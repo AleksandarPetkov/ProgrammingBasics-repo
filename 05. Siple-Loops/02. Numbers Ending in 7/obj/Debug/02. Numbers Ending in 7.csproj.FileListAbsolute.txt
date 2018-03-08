@@ -1,0 +1,6 @@
+c:\users\hp\source\repos\05.Siple-Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe.config
+c:\users\hp\source\repos\05.Siple-Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.exe
+c:\users\hp\source\repos\05.Siple-Loops\02. Numbers Ending in 7\bin\Debug\_02.Numbers_Ending_in_7.pdb
+c:\users\hp\source\repos\05.Siple-Loops\02. Numbers Ending in 7\obj\Debug\02. Numbers Ending in 7.csproj.CoreCompileInputs.cache
+c:\users\hp\source\repos\05.Siple-Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.exe
+c:\users\hp\source\repos\05.Siple-Loops\02. Numbers Ending in 7\obj\Debug\_02.Numbers_Ending_in_7.pdb

@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe.config
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.exe
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\bin\Debug\_04.Sum_Numbers.pdb
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\obj\Debug\04. Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.exe
+C:\Users\HP\source\repos\05.Siple-Loops\04. Sum Numbers\obj\Debug\_04.Sum_Numbers.pdb
