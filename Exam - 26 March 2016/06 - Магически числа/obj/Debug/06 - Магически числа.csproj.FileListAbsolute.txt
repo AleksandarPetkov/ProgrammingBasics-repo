@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\06 - Магически числа\bin\Debug\06 - Магически числа.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\06 - Магически числа\bin\Debug\06 - Магически числа.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\06 - Магически числа\bin\Debug\06 - Магически числа.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\06 - Магически числа\obj\Debug\06 - Магически числа.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\06 - Магически числа\obj\Debug\06 - Магически числа.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\06 - Магически числа\obj\Debug\06 - Магически числа.pdb

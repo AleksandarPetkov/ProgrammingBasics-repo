@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\bin\Debug\02 - Тръби в басейн.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\bin\Debug\02 - Тръби в басейн.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\bin\Debug\02 - Тръби в басейн.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\obj\Debug\02 - Тръби в басейн.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\obj\Debug\02 - Тръби в басейн.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\obj\Debug\02 - Тръби в басейн.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\02 - Тръби в басейн\obj\Debug\02 - Тръби в басейн.pdb

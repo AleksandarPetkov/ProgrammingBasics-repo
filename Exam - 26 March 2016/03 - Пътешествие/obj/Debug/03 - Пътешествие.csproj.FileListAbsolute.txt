@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\bin\Debug\03 - Пътешествие.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\bin\Debug\03 - Пътешествие.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\bin\Debug\03 - Пътешествие.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\03 - Пътешествие\obj\Debug\03 - Пътешествие.pdb

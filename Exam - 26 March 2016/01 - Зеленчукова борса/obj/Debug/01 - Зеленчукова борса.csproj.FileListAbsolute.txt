@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\01 - Зеленчукова борса\bin\Debug\01 - Зеленчукова борса.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\01 - Зеленчукова борса\bin\Debug\01 - Зеленчукова борса.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\01 - Зеленчукова борса\bin\Debug\01 - Зеленчукова борса.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\01 - Зеленчукова борса\obj\Debug\01 - Зеленчукова борса.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\01 - Зеленчукова борса\obj\Debug\01 - Зеленчукова борса.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\01 - Зеленчукова борса\obj\Debug\01 - Зеленчукова борса.pdb

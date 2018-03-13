@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\05 - Пеперуда\obj\Debug\05 - Пеперуда.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\05 - Пеперуда\bin\Debug\05 - Пеперуда.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\05 - Пеперуда\bin\Debug\05 - Пеперуда.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\05 - Пеперуда\bin\Debug\05 - Пеперуда.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\05 - Пеперуда\obj\Debug\05 - Пеперуда.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\05 - Пеперуда\obj\Debug\05 - Пеперуда.pdb

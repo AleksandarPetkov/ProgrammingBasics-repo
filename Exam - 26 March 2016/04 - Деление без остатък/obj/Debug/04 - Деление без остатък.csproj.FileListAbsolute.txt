@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\04 - Деление без остатък\bin\Debug\04 - Деление без остатък.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\04 - Деление без остатък\bin\Debug\04 - Деление без остатък.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\04 - Деление без остатък\bin\Debug\04 - Деление без остатък.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\04 - Деление без остатък\obj\Debug\04 - Деление без остатък.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\04 - Деление без остатък\obj\Debug\04 - Деление без остатък.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\02-Exam - 26 March 2016\04 - Деление без остатък\obj\Debug\04 - Деление без остатък.pdb
