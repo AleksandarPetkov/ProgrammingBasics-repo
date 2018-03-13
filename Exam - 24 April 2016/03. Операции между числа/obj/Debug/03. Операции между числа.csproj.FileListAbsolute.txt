@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\bin\Debug\_03.Операции_между_числа.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\obj\Debug\03. Операции между числа.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\obj\Debug\03. Операции между числа.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\obj\Debug\_03.Операции_между_числа.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\03. Операции между числа\obj\Debug\_03.Операции_между_числа.pdb

@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\bin\Debug\_2.Поспаливата_котка_Том.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\bin\Debug\_2.Поспаливата_котка_Том.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\bin\Debug\_2.Поспаливата_котка_Том.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\obj\Debug\2. Поспаливата котка Том.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\obj\Debug\2. Поспаливата котка Том.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\obj\Debug\_2.Поспаливата_котка_Том.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\2. Поспаливата котка Том\obj\Debug\_2.Поспаливата_котка_Том.pdb

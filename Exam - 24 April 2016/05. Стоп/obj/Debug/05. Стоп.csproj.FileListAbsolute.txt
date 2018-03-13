@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\05. Стоп\obj\Debug\05. Стоп.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\05. Стоп\bin\Debug\_05.Стоп.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\05. Стоп\bin\Debug\_05.Стоп.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\05. Стоп\bin\Debug\_05.Стоп.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\05. Стоп\obj\Debug\_05.Стоп.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\05. Стоп\obj\Debug\_05.Стоп.pdb

@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\bin\Debug\_06.Специални_числа.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\bin\Debug\_06.Специални_числа.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\bin\Debug\_06.Специални_числа.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\obj\Debug\06. Специални числа.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\obj\Debug\06. Специални числа.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\obj\Debug\_06.Специални_числа.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\03-24 April 2016\06. Специални числа\obj\Debug\_06.Специални_числа.pdb
