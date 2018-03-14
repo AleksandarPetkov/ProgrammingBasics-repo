@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\04.BackToThePst\bin\Debug\04.BackToThePst.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\04.BackToThePst\bin\Debug\04.BackToThePst.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\04.BackToThePst\bin\Debug\04.BackToThePst.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\04.BackToThePst\obj\Debug\04.BackToThePst.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\04.BackToThePst\obj\Debug\04.BackToThePst.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\04.BackToThePst\obj\Debug\04.BackToThePst.pdb

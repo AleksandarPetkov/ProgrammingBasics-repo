@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\bin\Debug\05.Diamont.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\bin\Debug\05.Diamont.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\bin\Debug\05.Diamont.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\obj\Debug\05.Diamont.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\obj\Debug\05.Diamont.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\obj\Debug\05.Diamont.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\05.Diamont\obj\Debug\05.Diamont.pdb

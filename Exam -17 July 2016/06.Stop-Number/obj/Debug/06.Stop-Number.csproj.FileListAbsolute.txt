@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\bin\Debug\06.Stop-Number.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\bin\Debug\06.Stop-Number.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\bin\Debug\06.Stop-Number.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\obj\Debug\06.Stop-Number.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\obj\Debug\06.Stop-Number.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\obj\Debug\06.Stop-Number.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\06.Stop-Number\obj\Debug\06.Stop-Number.pdb

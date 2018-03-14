@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\bin\Debug\03.Match-Tickets.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\bin\Debug\03.Match-Tickets.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\bin\Debug\03.Match-Tickets.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\obj\Debug\03.Match-Tickets.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\obj\Debug\03.Match-Tickets.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\obj\Debug\03.Match-Tickets.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\03.Match-Tickets\obj\Debug\03.Match-Tickets.pdb

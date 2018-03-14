@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\obj\Debug\02.Harvest.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\bin\Debug\02.Harvest.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\bin\Debug\02.Harvest.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\bin\Debug\02.Harvest.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\obj\Debug\02.Harvest.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\obj\Debug\02.Harvest.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\04-17 July 2016\02.Harvest\obj\Debug\02.Harvest.csprojResolveAssemblyReference.cache
