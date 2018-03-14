@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\bin\Debug\_06.Battless.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\bin\Debug\_06.Battless.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\bin\Debug\_06.Battless.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\obj\Debug\06. Battless.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\obj\Debug\_06.Battless.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\obj\Debug\_06.Battless.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battless\obj\Debug\06. Battless.csprojResolveAssemblyReference.cache

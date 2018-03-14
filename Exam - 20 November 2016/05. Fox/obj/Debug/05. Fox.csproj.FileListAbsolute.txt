@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\bin\Debug\_05.Fox.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\obj\Debug\05. Fox.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\obj\Debug\05. Fox.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\05. Fox\obj\Debug\_05.Fox.pdb

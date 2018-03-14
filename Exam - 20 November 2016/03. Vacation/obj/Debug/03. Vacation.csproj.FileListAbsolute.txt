@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\bin\Debug\_03.Vacation.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\obj\Debug\03. Vacation.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\obj\Debug\03. Vacation.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\obj\Debug\_03.Vacation.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\03. Vacation\obj\Debug\_03.Vacation.pdb

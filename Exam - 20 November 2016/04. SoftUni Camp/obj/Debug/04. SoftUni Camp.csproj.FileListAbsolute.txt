@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\bin\Debug\_04.SoftUni_Camp.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\04. SoftUni Camp.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\04. SoftUni Camp.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\04. SoftUni Camp\obj\Debug\_04.SoftUni_Camp.pdb

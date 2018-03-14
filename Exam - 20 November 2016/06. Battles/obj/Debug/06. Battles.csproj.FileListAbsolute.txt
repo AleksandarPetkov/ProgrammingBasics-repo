@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\bin\Debug\_06.Battles.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\obj\Debug\06. Battles.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\obj\Debug\06. Battles.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\obj\Debug\_06.Battles.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\06-20 November 2016 - Morning\06. Battles\obj\Debug\_06.Battles.pdb
