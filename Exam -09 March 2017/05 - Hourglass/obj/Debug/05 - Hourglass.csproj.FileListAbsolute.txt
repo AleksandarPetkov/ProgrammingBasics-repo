@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\bin\Debug\05 - Hourglass.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\bin\Debug\05 - Hourglass.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\bin\Debug\05 - Hourglass.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\obj\Debug\05 - Hourglass.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\obj\Debug\05 - Hourglass.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\obj\Debug\05 - Hourglass.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\05 - Hourglass\obj\Debug\05 - Hourglass.csprojResolveAssemblyReference.cache

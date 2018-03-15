@@ -1,0 +1,7 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\bin\Debug\04.TrainersSolary.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\bin\Debug\04.TrainersSolary.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\bin\Debug\04.TrainersSolary.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\obj\Debug\04.TrainersSolary.csprojResolveAssemblyReference.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\obj\Debug\04.TrainersSolary.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\obj\Debug\04.TrainersSolary.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\04.TrainersSolary\obj\Debug\04.TrainersSolary.pdb

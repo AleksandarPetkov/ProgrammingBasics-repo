@@ -1,0 +1,6 @@
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\03.Vacantion\bin\Debug\03.Vacantion.exe.config
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\03.Vacantion\bin\Debug\03.Vacantion.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\03.Vacantion\bin\Debug\03.Vacantion.pdb
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\03.Vacantion\obj\Debug\03.Vacantion.csproj.CoreCompileInputs.cache
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\03.Vacantion\obj\Debug\03.Vacantion.exe
+D:\01.SoftUni\01.ProgrammingBasics\ProgrammingBasics-Examps\10.Exam -09 March 2017 - Morning\03.Vacantion\obj\Debug\03.Vacantion.pdb
